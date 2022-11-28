@@ -1,5 +1,7 @@
 # github-pages-starter
 
+Link: katherineheidi.com/ATUSVis
+
 A template for including data visualizations in a Jekyll-powered blog with Github Pages.
 
 
